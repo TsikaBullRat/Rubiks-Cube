@@ -1,0 +1,10 @@
+{
+    "name": "rubiks",
+    "description": "A Rubiks cube built with html, css and javascript.",
+    "author": {
+        "name": "Ntsikayomzi Phenyo Ngcakani"
+    },
+    "scripts": {
+        "start": "node engine.js"
+    }
+}
